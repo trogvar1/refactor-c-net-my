@@ -1,0 +1,13 @@
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\bin\Debug\net8.0\appsettings.json
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\bin\Debug\net8.0\BankomatClassLibrary.deps.json
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\bin\Debug\net8.0\BankomatClassLibrary.dll
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\bin\Debug\net8.0\BankomatClassLibrary.pdb
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\BankomatClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\BankomatClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\BankomatClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\BankomatClassLibrary.AssemblyInfo.cs
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\BankomatClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\BankomatClassLibrary.dll
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\refint\BankomatClassLibrary.dll
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\BankomatClassLibrary.pdb
+C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\BankomatClassLibrary\obj\Debug\net8.0\ref\BankomatClassLibrary.dll

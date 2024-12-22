@@ -1,0 +1,9 @@
+﻿<Window x:Class="DotNetLab1_WPF.ATMOperationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ATM Operations" Height="550" Width="800">
+    <Grid>
+        <TextBlock x:Name="AuthenticatedUser" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="20"/>
+        <ContentControl x:Name="UserControlHost" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,40,0,0"/>
+    </Grid>
+</Window>
