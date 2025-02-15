@@ -8,11 +8,17 @@ public class AuthenticationService
 {
     public static bool ValidateCardNumber(string cardNumber)
     {
-        return cardNumber.Length == 16 && cardNumber.All(char.IsDigit);
+        return IsValidInput(cardNumber, 16);
     }
 
     public static bool ValidatePinCode(string pinCode)
     {
-        return pinCode.Length == 4 && pinCode.All(char.IsDigit);
+        return IsValidInput(pinCode, 4);
+    }
+
+    private static bool IsValidInput(string input, int length)
+    {
+        return input.Length == length && input.All(char.IsDigit);
     }
 }
+
