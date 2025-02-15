@@ -4367,11 +4367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\DotNetLab1-Console\\DotNetLab1-Console.csproj",
+      "projectUniqueName": "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\DotNetLab1-Console.csproj",
       "projectName": "DotNetLab1-Console",
-      "projectPath": "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\DotNetLab1-Console\\DotNetLab1-Console.csproj",
+      "projectPath": "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\DotNetLab1-Console.csproj",
       "packagesPath": "C:\\Users\\Єгор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\DotNetLab1-Console\\obj\\",
+      "outputPath": "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4393,8 +4393,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\BankomatClassLibrary\\BankomatClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\BankomatClassLibrary\\BankomatClassLibrary.csproj"
+            "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\BankomatClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\BankomatClassLibrary.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\BankomatClassLibrary\\BankomatClassLibrary.csproj": {}
+    "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\BankomatClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\BankomatClassLibrary\\BankomatClassLibrary.csproj": {
+    "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\BankomatClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\BankomatClassLibrary\\BankomatClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\BankomatClassLibrary.csproj",
         "projectName": "BankomatClassLibrary",
-        "projectPath": "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\BankomatClassLibrary\\BankomatClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\BankomatClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Єгор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\BankomatClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

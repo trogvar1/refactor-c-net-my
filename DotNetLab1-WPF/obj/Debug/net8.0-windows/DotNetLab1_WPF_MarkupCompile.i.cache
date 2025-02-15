@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\DotNetLab1-WPF\obj\Debug\net8.0-windows\
+C:\Users\Єгор\Desktop\my gitlab c net\lab-1-net\DotNetLab1-WPF\obj\Debug\net8.0-windows\
 DotNetLab1_WPF
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Єгор\Desktop\.net\dotnet-lab1-master\DotNetLab1-WPF\App.xaml
+C:\Users\Єгор\Desktop\my gitlab c net\lab-1-net\DotNetLab1-WPF\App.xaml
 7-209950420
 
 12396461324
-245-1529750145
+2451098195727
 ATMOperationsControl.xaml;ATMOperationWindow.xaml;ATMSelectionWindow.xaml;LoginUserControl.xaml;OperationsUserControls\DepositControl.xaml;OperationsUserControls\TransferControl.xaml;OperationsUserControls\WithdrawControl.xaml;
 
 False
