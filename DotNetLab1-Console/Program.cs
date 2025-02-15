@@ -6,6 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
+
         Console.OutputEncoding = Encoding.UTF8;
         Console.InputEncoding = Encoding.UTF8;
 
@@ -19,6 +20,12 @@ class Program
             AccountSelectionMenu(accountService, transactionService);
         }
     }
+
+    public interface ICommand
+    {
+        void Execute();
+    }
+
 
     static void AccountSelectionMenu(AccountService accountService, TransactionService transactionService)
     {
@@ -52,6 +59,8 @@ class Program
 
     static void AccountOperationMenu(AccountService accountService, TransactionService transactionService)
     {
+        var commandManager = new CommandManager(transactionService, accountService);
+
         while (true)
         {
             Console.WriteLine("Account menu:");
@@ -62,25 +71,12 @@ class Program
 
             if (int.TryParse(Console.ReadLine(), out int choice))
             {
-                switch (choice)
+                if (choice == 4) // If the user chooses to logout
                 {
-                    case 1:
-                        transactionService.WithdrawCash();
-                        break;
-                    case 2:
-                        transactionService.DepositCash();
-                        break;
-                    case 3:
-                        transactionService.TransferMoney();
-                        break;
-                    case 4:
-                        Console.Clear();
-                        Console.WriteLine("You are logged out.");
-                        return;
-                    default:
-                        Console.WriteLine("Invalid choice.");
-                        break;
+                    commandManager.ExecuteCommand(choice);
+                    return;
                 }
+                commandManager.ExecuteCommand(choice);
             }
             else
             {
@@ -88,4 +84,5 @@ class Program
             }
         }
     }
+
 }
