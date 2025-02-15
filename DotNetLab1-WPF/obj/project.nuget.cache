@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3b+9+hYbh6g=",
+  "dgSpecHash": "gE18DUm2Q9s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Єгор\\Desktop\\.net\\dotnet-lab1-master\\DotNetLab1-WPF\\DotNetLab1_WPF.csproj",
+  "projectFilePath": "C:\\Users\\Єгор\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\DotNetLab1_WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Єгор\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Єгор\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
