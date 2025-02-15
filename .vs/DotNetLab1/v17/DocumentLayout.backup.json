@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|solutionrelative:dotnetlab1-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|c:\\users\\\u0454\u0433\u043E\u0440\\desktop\\my gitlab c net\\lab-1-net\\dotnetlab1-console\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|solutionrelative:dotnetlab1-console\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|c:\\users\\\u0454\u0433\u043E\u0440\\desktop\\my gitlab c net\\lab-1-net\\dotnetlab1-console\\\u0441ommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|solutionrelative:dotnetlab1-console\\\u0441ommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|c:\\users\\\u0454\u0433\u043E\u0440\\desktop\\my gitlab c net\\lab-1-net\\dotnetlab1-console\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|solutionrelative:dotnetlab1-console\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|c:\\users\\\u0454\u0433\u043E\u0440\\desktop\\my gitlab c net\\lab-1-net\\dotnetlab1-console\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|solutionrelative:dotnetlab1-console\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|c:\\users\\\u0454\u0433\u043E\u0440\\desktop\\my gitlab c net\\lab-1-net\\dotnetlab1-console\\services\\atmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|solutionrelative:dotnetlab1-console\\services\\atmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|c:\\users\\\u0454\u0433\u043E\u0440\\desktop\\my gitlab c net\\lab-1-net\\dotnetlab1-console\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D9852F-A5E4-4059-9CDB-ED7FD99CE6CD}|DotNetLab1-Console\\DotNetLab1-Console.csproj|solutionrelative:dotnetlab1-console\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41955EE9-6D43-4847-972A-128DCE9A8260}|BankomatClassLibrary\\BankomatClassLibrary.csproj|c:\\users\\\u0454\u0433\u043E\u0440\\desktop\\my gitlab c net\\lab-1-net\\bankomatclasslibrary\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,11 +113,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\CommandManager.cs",
+              "RelativeDocumentMoniker": "DotNetLab1-Console\\CommandManager.cs",
+              "ToolTip": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\CommandManager.cs",
+              "RelativeToolTip": "DotNetLab1-Console\\CommandManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:49:42.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0421ommands.cs",
+              "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\\u0421ommands.cs",
+              "RelativeDocumentMoniker": "DotNetLab1-Console\\\u0421ommands.cs",
+              "ToolTip": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\\u0421ommands.cs",
+              "RelativeToolTip": "DotNetLab1-Console\\\u0421ommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:48:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\Services\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "DotNetLab1-Console\\Services\\AuthenticationService.cs",
@@ -117,12 +151,11 @@
               "RelativeToolTip": "DotNetLab1-Console\\Services\\AuthenticationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T19:20:29.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T19:20:29.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TransactionService.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\Services\\TransactionService.cs",
               "RelativeDocumentMoniker": "DotNetLab1-Console\\Services\\TransactionService.cs",
@@ -130,12 +163,11 @@
               "RelativeToolTip": "DotNetLab1-Console\\Services\\TransactionService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T19:20:16.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T19:20:16.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "DotNetLab1-Console\\Services\\AccountService.cs",
@@ -148,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ATMService.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\Services\\ATMService.cs",
               "RelativeDocumentMoniker": "DotNetLab1-Console\\Services\\ATMService.cs",
@@ -156,8 +188,7 @@
               "RelativeToolTip": "DotNetLab1-Console\\Services\\ATMService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T19:19:53.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T19:19:53.006Z"
             },
             {
               "$type": "Document",
@@ -167,14 +198,14 @@
               "RelativeDocumentMoniker": "DotNetLab1-Console\\Program.cs",
               "ToolTip": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-Console\\Program.cs",
               "RelativeToolTip": "DotNetLab1-Console\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwEEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T13:08:49.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AutomatedTellerMachine.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\AutomatedTellerMachine.cs",
               "RelativeDocumentMoniker": "BankomatClassLibrary\\AutomatedTellerMachine.cs",
@@ -182,12 +213,11 @@
               "RelativeToolTip": "BankomatClassLibrary\\AutomatedTellerMachine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:18:06.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:18:06.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Bank.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\Bank.cs",
               "RelativeDocumentMoniker": "BankomatClassLibrary\\Bank.cs",
@@ -195,12 +225,11 @@
               "RelativeToolTip": "BankomatClassLibrary\\Bank.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:19:37.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:19:37.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "BankATM.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\BankATM.cs",
               "RelativeDocumentMoniker": "BankomatClassLibrary\\BankATM.cs",
@@ -208,12 +237,11 @@
               "RelativeToolTip": "BankomatClassLibrary\\BankATM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:24:38.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:24:38.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DbContext.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\DbContext.cs",
               "RelativeDocumentMoniker": "BankomatClassLibrary\\DbContext.cs",
@@ -221,12 +249,11 @@
               "RelativeToolTip": "BankomatClassLibrary\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:24:49.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:24:49.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\Account.cs",
               "RelativeDocumentMoniker": "BankomatClassLibrary\\Account.cs",
@@ -234,12 +261,11 @@
               "RelativeToolTip": "BankomatClassLibrary\\Account.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:16:23.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T13:16:23.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "LoginUserControl.xaml",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\LoginUserControl.xaml",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\LoginUserControl.xaml",
@@ -250,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "ATMOperationWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\ATMOperationWindow.xaml",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\ATMOperationWindow.xaml",
@@ -261,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ATMOperationsControl.xaml",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\ATMOperationsControl.xaml",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\ATMOperationsControl.xaml",
@@ -272,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "DepositControl.xaml",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\OperationsUserControls\\DepositControl.xaml",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\OperationsUserControls\\DepositControl.xaml",
@@ -283,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "LoginUserControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\LoginUserControl.xaml.cs",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\LoginUserControl.xaml.cs",
@@ -295,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ATMSelectionWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\ATMSelectionWindow.xaml.cs",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\ATMSelectionWindow.xaml.cs",
@@ -307,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "WithdrawControl.xaml",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\OperationsUserControls\\WithdrawControl.xaml",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\OperationsUserControls\\WithdrawControl.xaml",
@@ -318,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "TransferControl.xaml",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\OperationsUserControls\\TransferControl.xaml",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\OperationsUserControls\\TransferControl.xaml",
@@ -329,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ATMOperationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\ATMOperationWindow.xaml.cs",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\ATMOperationWindow.xaml.cs",
@@ -341,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ATMOperationsControl.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\ATMOperationsControl.xaml.cs",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\ATMOperationsControl.xaml.cs",
@@ -353,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ATMSelectionWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\ATMSelectionWindow.xaml",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\ATMSelectionWindow.xaml",
@@ -364,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\BankomatClassLibrary\\appsettings.json",
               "RelativeDocumentMoniker": "BankomatClassLibrary\\appsettings.json",
@@ -376,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\Desktop\\my gitlab c net\\lab-1-net\\DotNetLab1-WPF\\App.xaml.cs",
               "RelativeDocumentMoniker": "DotNetLab1-WPF\\App.xaml.cs",
@@ -388,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "XamlReader.cs",
               "DocumentMoniker": "C:\\Users\\\u0404\u0433\u043E\u0440\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
